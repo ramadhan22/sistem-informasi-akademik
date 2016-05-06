@@ -61,7 +61,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 				<!-- Logo -->
 				
-				<?php echo anchor(base_url().'home', '<b>Sistem Informasi Akademik Sekolah</b>', 'class="logo"'); ?>
+				<?php echo anchor(base_url().'home', '<b>SIAK</b>', 'class="logo"'); ?>
 
 				<!-- Header Navbar -->
 				<nav class="navbar navbar-static-top" role="navigation">
